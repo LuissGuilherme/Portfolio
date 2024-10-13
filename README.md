@@ -1,15 +1,17 @@
 <h1 align="center">Oi 👋, Meu nome é Luís Guilherme</h1>
 <h3 align="center">Amo tecnologia e gosto de jogos.</h3>
 
-- 🌱 Estou aprendendo **SQL, C, C++ e Java Script**
+- 🔭 Atualmente sou estudante de **ciência da computação.**
 
-- 📫 Como me contatar **luissguilherme@sempreceub.com**
+- 🌱 Estou aprendendo **SQL, C, Java Script**
+
+- 📫 Fale comigo em **luissguilherme@sempreceub.com**
 
 - ⚡ Curiosidade aleatória **Gosto de bolo de caneca.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/luis-guilherme-611048333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-guilherme-611048333/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-guilherme-611048333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-guilherme-611048333/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
